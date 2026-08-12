@@ -132,13 +132,10 @@ Risk Category =
 telco-churn-analysis/
 ├── sql/
 │   ├── 01_setup_and_cleaning.sql
-│   ├── 02_encoding.sql
-│   ├── 03_eda_queries.sql
-│   └── 04_views.sql
+│   ├── 02_exploraty_analysis.sql
+│   
 ├── powerbi/
 │   └── telco_churn_analysis.pbix
-├── docs/
-│   └── insights_report.md
 └── README.md
 ```
 
