@@ -24,7 +24,7 @@ IBM Telco Dataset (5 tables)
    Power BI Dashboard (4 pages)
    ├── Star Schema Model
    ├── 15+ DAX Measures
-   └── Interactive Slicers & Drill-through
+   └── Interactive Slicers & Drill-through & Bokkmarks
 ```
 
 ---
